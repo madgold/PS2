@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author maddiegold
- *
- */
-package pkgEmpty;
